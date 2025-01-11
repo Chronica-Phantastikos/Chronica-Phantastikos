@@ -1,3 +1,23 @@
+# compiled files
+./runner.js
+./watcher/water.js
+./simulationManagement/newId.js
+types/state.js
+types/types.js
+types/bases.js
+types/blueprints.js
+types/simulationData.js
+simulation/sim/creator.js
+simulation/sim/nextStep.js
+simulation/sim/module/helper.js
+simulation/data/stats/dwarfStats.js
+simulation/data/stats/orcStats.js
+simulation/data/stats/elfStats.js
+simulation/data/stats/humanStats.js
+simulation/classes/Person.js
+simulation/cgi/server.js
+simulation/storage/memory/stateUpdater.js
+
 # Logs
 logs
 *.log
@@ -121,6 +141,9 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+
+# VSCode
+.vscode
 
 # yarn v2
 .yarn/cache
